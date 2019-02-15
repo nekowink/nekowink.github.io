@@ -22,6 +22,15 @@
  * Released under the MIT License.
  */
 
+/**
+ * @license
+ * Lodash <https://lodash.com/>
+ * Copyright JS Foundation and other contributors <https://js.foundation/>
+ * Released under MIT license <https://lodash.com/license>
+ * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
+ * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+ */
+
 /*!
  * better-normal-scroll v1.14.1
  * (c) 2016-2019 ustbhuangyi
